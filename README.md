@@ -28,7 +28,7 @@ The program is written in (and requires) [Mathematica](http://www.wolfram.com/ma
 
 ## How to run it ##
 
-Simply open the notebook. Instructions are at the top. 
+Simply download open the [notebook](DeFinetti/DeFinetti.nb). Instructions are at the top. 
 
 ## Examples ##
 
