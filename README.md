@@ -28,10 +28,11 @@ The program is written in (and requires) [Mathematica](http://www.wolfram.com/ma
 
 ## How to run it ##
 
-Simply download open the [notebook](DeFinetti.nb). Instructions are at the top. 
+Simply download and open the [notebook](DeFinetti.nb). Instructions are at the top. 
 
 ## Examples ##
 
+Publications in which the program has been used:
 1. [Nonlinear public goods games](https://archive.uea.ac.uk/~zzq12vpu/papers/GAMES_2018_Bernstein.pdf)
 2. [Game theory of cancer](https://archive.uea.ac.uk/~zzq12vpu/papers/GAMES_2018_MM.pdf)
 
