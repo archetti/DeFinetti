@@ -38,4 +38,4 @@ Publications in which the program has been used:
 
 ## Author ##
 
-[Marco Archetti](http://www.personal.psu.edu/mua972/)
+[Marco Archetti](https://bio.psu.edu/directory/mua972)
