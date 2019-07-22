@@ -33,8 +33,8 @@ Simply download, open and run the [notebook](DeFinetti.nb).
 ## Examples ##
 
 Publications in which the program has been used:
-1. [Nonlinear public goods games](https://archive.uea.ac.uk/~zzq12vpu/papers/GAMES_2018_Bernstein.pdf)
-2. [Game theory of cancer](https://archive.uea.ac.uk/~zzq12vpu/papers/GAMES_2018_MM.pdf)
+1. [Nonlinear public goods games](http://www.personal.psu.edu/mua972/papers/GAMES_2018_Bernstein.pdf)
+2. [Game theory of cancer](http://www.personal.psu.edu/mua972/papers/GAMES_2018_MM.pdf)
 
 ## Author ##
 
